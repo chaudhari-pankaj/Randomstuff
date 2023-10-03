@@ -1,0 +1,13 @@
+.cardhome{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(295px,1fr));
+    grid-gap:25px;
+    text-align:center;
+    margin-left:1rem;
+    margin-right:1rem;
+    /* padding: 3rem; */
+}
+/* .cardhome > .card{
+    display:inline-block; 
+
+}*/
